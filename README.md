@@ -67,8 +67,6 @@ npm install
 
 🚀 Uso
 
-Execute o projeto:
+Execute o projeto
 
-npm start
 
-Acesse no navegador em http://localhost:3000
