@@ -59,14 +59,7 @@ git clone https://github.com/usuario/venus-cycling-team.git
 
 Acesse a pasta do projeto:
 
-cd venus-cycling-team
+Execute o projeto index.html
 
-Instale as dependências:
-
-npm install
-
-🚀 Uso
-
-Execute o projeto
 
 
